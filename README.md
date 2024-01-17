@@ -7,7 +7,7 @@ CodeX is a German beverage company that is aiming to make its mark in the Indian
 A few months ago, they launched their energy drink in 10 cities in India.Their Marketing
 team is responsible for increasing brand awareness, market share, and product development.
 
-𝐏𝐫𝐨𝐛𝐥𝐞𝐦𝐬:
+# A first-level heading 𝐏𝐫𝐨𝐛𝐥𝐞𝐦𝐬:
 ⭕ Improving brand perception
 ⭕ Finding the target audience/consumer segment
 ⭕ Finding the locations to focus on
