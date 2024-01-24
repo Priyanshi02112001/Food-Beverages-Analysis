@@ -1,4 +1,4 @@
-##📝 𝐀𝐛𝐨𝐮𝐭 𝐂𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞:
+## 𝐀𝐛𝐨𝐮𝐭 𝐂𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞:
 
 Domain: F & B   
 Function: Marketing
@@ -14,7 +14,7 @@ team is responsible for increasing brand awareness, market share, and product de
 -  Getting meaningful insights to work on product development
 -  Finding the appropriate marketing strategy
 
-## Tasks completed-
+## Tasks completed:
 
 ### 📊 Provided 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬 𝐑𝐞𝐪𝐮𝐢𝐫𝐞𝐝 required by the Marketing Team
 - Demographic Insights
